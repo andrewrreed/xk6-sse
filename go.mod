@@ -1,4 +1,4 @@
-module github.com/andrewrreed/xk6-sse@useSobek
+module github.com/andrewrreed/xk6-sse
 
 go 1.20
 
